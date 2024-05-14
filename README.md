@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Claudio Junior</h1>
 <h3 align="center">A passionate data analyst from Brazil</h3>
 
-- 🔭 I’m currently working on my personal data analysis portfolio **data-analysis-portfolio**
+- 🔭 I’m currently working on my personal **data-analysis-portfolio**
 
 - 👨‍💻 All of my projects are available at [https://github.com/claud-duarte](https://github.com/claud-duarte)
 
